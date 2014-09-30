@@ -1,0 +1,993 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Interface\n"
+"POT-Creation-Date: 2014-04-28 14:09+0545\n"
+"PO-Revision-Date: 2014-04-28 14:09+0545\n"
+"Last-Translator: \n"
+"Language-Team: Themehorse <support@themehorse.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;_x;_n;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:30
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:132
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/admin/interface-metaboxes.php:19
+msgid ""
+"Select layout for this specific Page only ( Note: This setting only reflects "
+"if page Template is set as Default Template and Blog Type Templates.)"
+msgstr ""
+
+#: inc/admin/interface-metaboxes.php:25
+msgid "Select layout for this specific Post only"
+msgstr ""
+
+#: inc/admin/interface-metaboxes.php:38
+msgid "Default Layout Set in"
+msgstr ""
+
+#: inc/admin/interface-metaboxes.php:38
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/admin/interface-metaboxes.php:44
+msgid "No sidebar"
+msgstr ""
+
+#: inc/admin/interface-metaboxes.php:50
+msgid "No sidebar, Full Width"
+msgstr ""
+
+#: inc/admin/interface-metaboxes.php:57
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/admin/interface-metaboxes.php:63
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/admin/theme-option.php:100 inc/admin/theme-option.php:101
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin/theme-option.php:135
+msgid "Theme Options by"
+msgstr ""
+
+#: inc/admin/theme-option.php:138
+msgid "http://themehorse.com/"
+msgstr ""
+
+#: inc/admin/theme-option.php:138 inc/shortcodes/interface-shortcodes.php:61
+msgid "Theme Horse"
+msgstr ""
+
+#: inc/admin/theme-option.php:140
+msgid "Confused about something? See"
+msgstr ""
+
+#: inc/admin/theme-option.php:141
+msgid "Interface Theme Instructions"
+msgstr ""
+
+#: inc/admin/theme-option.php:142
+msgid "Theme Instructions"
+msgstr ""
+
+#: inc/admin/theme-option.php:143 inc/admin/theme-option.php:144
+msgid "Support Forum"
+msgstr ""
+
+#: inc/admin/theme-option.php:145
+msgid "Interface Demo"
+msgstr ""
+
+#: inc/admin/theme-option.php:146
+msgid "View Demo"
+msgstr ""
+
+#: inc/admin/theme-option.php:153
+msgid "Hey! buy us a beer and we shall come with new features and update."
+msgstr ""
+
+#: inc/admin/theme-option.php:155 inc/admin/theme-option.php:156
+msgid "Donate"
+msgstr ""
+
+#: inc/admin/theme-option.php:157
+msgid "Review Interface"
+msgstr ""
+
+#: inc/admin/theme-option.php:158
+msgid "Rate Interface"
+msgstr ""
+
+#: inc/admin/theme-option.php:178
+msgid "Settings saved."
+msgstr ""
+
+#: inc/admin/theme-option.php:185
+msgid "Layout Options"
+msgstr ""
+
+#: inc/admin/theme-option.php:188
+msgid "Design Options"
+msgstr ""
+
+#: inc/admin/theme-option.php:191
+msgid "Advance Options"
+msgstr ""
+
+#: inc/admin/theme-option.php:194
+msgid "Featured Post/Page Slider"
+msgstr ""
+
+#: inc/admin/theme-option.php:197
+msgid "Contact / Social Links"
+msgstr ""
+
+#: inc/admin/theme-option.php:205 inc/admin/theme-option.php:212
+msgid "Site Layout"
+msgstr ""
+
+#: inc/admin/theme-option.php:215
+msgid "This change is reflected in whole website"
+msgstr ""
+
+#: inc/admin/theme-option.php:220
+msgid "Narrow Layout"
+msgstr ""
+
+#: inc/admin/theme-option.php:224
+msgid "Wide Layout"
+msgstr ""
+
+#: inc/admin/theme-option.php:230 inc/admin/theme-option.php:276
+#: inc/admin/theme-option.php:305 inc/admin/theme-option.php:363
+#: inc/admin/theme-option.php:401 inc/admin/theme-option.php:439
+#: inc/admin/theme-option.php:494 inc/admin/theme-option.php:557
+#: inc/admin/theme-option.php:599 inc/admin/theme-option.php:684
+#: inc/admin/theme-option.php:724 inc/admin/theme-option.php:780
+#: inc/admin/theme-option.php:835
+msgid "Save All Changes"
+msgstr ""
+
+#: inc/admin/theme-option.php:238
+msgid "Content Layout"
+msgstr ""
+
+#: inc/admin/theme-option.php:245
+msgid "Layouts"
+msgstr ""
+
+#: inc/admin/theme-option.php:249
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/admin/theme-option.php:253
+msgid "No Sidebar, Full Width"
+msgstr ""
+
+#: inc/admin/theme-option.php:257 inc/widgets/interface_widgets.php:20
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/admin/theme-option.php:261 inc/widgets/interface_widgets.php:31
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/admin/theme-option.php:267
+msgid "Reset Layout"
+msgstr ""
+
+#: inc/admin/theme-option.php:271
+msgid "Check to reset"
+msgstr ""
+
+#: inc/admin/theme-option.php:284 inc/admin/theme-option.php:291
+msgid "Responsive Layout"
+msgstr ""
+
+#: inc/admin/theme-option.php:295
+msgid ""
+"ON <span class=\"description\">(Responsive view will be displayed in small "
+"devices )</span>"
+msgstr ""
+
+#: inc/admin/theme-option.php:299
+msgid ""
+"OFF   <span class=\"description\">(Full site will display as desktop view)</"
+"span>"
+msgstr ""
+
+#: inc/admin/theme-option.php:316
+msgid "Custom Header"
+msgstr ""
+
+#: inc/admin/theme-option.php:323 inc/admin/theme-option.php:331
+msgid "Header Logo"
+msgstr ""
+
+#: inc/admin/theme-option.php:326
+msgid "Change Header Logo"
+msgstr ""
+
+#: inc/admin/theme-option.php:329 inc/admin/theme-option.php:393
+#: inc/admin/theme-option.php:431
+msgid "Preview"
+msgstr ""
+
+#: inc/admin/theme-option.php:336
+msgid "Show"
+msgstr ""
+
+#: inc/admin/theme-option.php:340
+msgid "Header Logo Only"
+msgstr ""
+
+#: inc/admin/theme-option.php:343
+msgid "Header Text Only"
+msgstr ""
+
+#: inc/admin/theme-option.php:346
+msgid "Disable"
+msgstr ""
+
+#: inc/admin/theme-option.php:350
+msgid "Need to replace Header Image?"
+msgstr ""
+
+#: inc/admin/theme-option.php:352 inc/admin/theme-option.php:456
+#, php-format
+msgid "<a class=\"button\" href=\"%s\">Click here</a>"
+msgstr ""
+
+#: inc/admin/theme-option.php:355
+msgid "Hide Searchform from Header"
+msgstr ""
+
+#: inc/admin/theme-option.php:358
+msgid "Check to hide"
+msgstr ""
+
+#: inc/admin/theme-option.php:372
+msgid "Fav Icon Options"
+msgstr ""
+
+#: inc/admin/theme-option.php:379
+msgid "Disable Favicon"
+msgstr ""
+
+#: inc/admin/theme-option.php:383 inc/admin/theme-option.php:421
+#: inc/admin/theme-option.php:519 inc/admin/theme-option.php:621
+#: inc/admin/theme-option.php:747 inc/admin/theme-option.php:755
+msgid "Check to disable"
+msgstr ""
+
+#: inc/admin/theme-option.php:387
+msgid "Fav Icon URL"
+msgstr ""
+
+#: inc/admin/theme-option.php:390
+msgid "Change Fav Icon"
+msgstr ""
+
+#: inc/admin/theme-option.php:395
+msgid "favicon"
+msgstr ""
+
+#: inc/admin/theme-option.php:410
+msgid "Web Clip Icon Options"
+msgstr ""
+
+#: inc/admin/theme-option.php:417
+msgid "Disable Web Clip Icon"
+msgstr ""
+
+#: inc/admin/theme-option.php:425
+msgid "Web Clip Icon URL"
+msgstr ""
+
+#: inc/admin/theme-option.php:428
+msgid "Change Web Clip Icon"
+msgstr ""
+
+#: inc/admin/theme-option.php:433
+msgid "webpage icon"
+msgstr ""
+
+#: inc/admin/theme-option.php:448
+msgid "Custom Background"
+msgstr ""
+
+#: inc/admin/theme-option.php:454
+msgid "Need to replace default background?"
+msgstr ""
+
+#: inc/admin/theme-option.php:458
+msgid ""
+"Note: The custom background change will be reflected in the background if "
+"the site layout is set to be narrow layout instead of the wide layout."
+msgstr ""
+
+#: inc/admin/theme-option.php:470
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/admin/theme-option.php:477
+msgid "Enter your custom CSS styles."
+msgstr ""
+
+#: inc/admin/theme-option.php:480
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr ""
+
+#: inc/admin/theme-option.php:486
+msgid "CSS Tutorial from W3Schools."
+msgstr ""
+
+#: inc/admin/theme-option.php:487
+msgid "http://www.w3schools.com/css/default.asp"
+msgstr ""
+
+#: inc/admin/theme-option.php:487
+msgid "CSS Tutorial"
+msgstr ""
+
+#: inc/admin/theme-option.php:488
+msgid "Click Here to Read"
+msgstr ""
+
+#: inc/admin/theme-option.php:507
+msgid "Home Slogan Options"
+msgstr ""
+
+#: inc/admin/theme-option.php:514
+msgid "Disable Slogan Part"
+msgstr ""
+
+#: inc/admin/theme-option.php:523
+msgid "Slogan Position"
+msgstr ""
+
+#: inc/admin/theme-option.php:527
+msgid "Above Slider"
+msgstr ""
+
+#: inc/admin/theme-option.php:531
+msgid "Below Slider"
+msgstr ""
+
+#: inc/admin/theme-option.php:536
+msgid "Home Page Primary Slogan"
+msgstr ""
+
+#: inc/admin/theme-option.php:539 inc/admin/theme-option.php:549
+msgid "The appropriate length of the slogan is around 10 words."
+msgstr ""
+
+#: inc/admin/theme-option.php:546
+msgid "Home Page Secondary Slogan"
+msgstr ""
+
+#: inc/admin/theme-option.php:565
+msgid "Homepage Blog Category Setting"
+msgstr ""
+
+#: inc/admin/theme-option.php:572
+msgid "Front page posts categories:"
+msgstr ""
+
+#: inc/admin/theme-option.php:575
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page."
+msgstr ""
+
+#: inc/admin/theme-option.php:580
+msgid "--Disabled--"
+msgstr ""
+
+#: inc/admin/theme-option.php:593
+msgid "You may select multiple categories by holding down the CTRL key."
+msgstr ""
+
+#: inc/admin/theme-option.php:613
+msgid "Slider Options"
+msgstr ""
+
+#: inc/admin/theme-option.php:618
+msgid "Disable Slider"
+msgstr ""
+
+#: inc/admin/theme-option.php:625
+msgid "Slider Content"
+msgstr ""
+
+#: inc/admin/theme-option.php:629
+msgid ""
+"ON <span class=\"description\">(Slider Content will be displayed)</span>"
+msgstr ""
+
+#: inc/admin/theme-option.php:633
+msgid ""
+"OFF   <span class=\"description\">(Slider Content will not be displayed)</"
+"span>"
+msgstr ""
+
+#: inc/admin/theme-option.php:637
+msgid "Number of Slides"
+msgstr ""
+
+#: inc/admin/theme-option.php:642
+msgid "Transition Effect:"
+msgstr ""
+
+#: inc/admin/theme-option.php:662 inc/admin/theme-option.php:825
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/admin/theme-option.php:669
+msgid "Transition Delay"
+msgstr ""
+
+#: inc/admin/theme-option.php:672 inc/admin/theme-option.php:679
+msgid "second(s)"
+msgstr ""
+
+#: inc/admin/theme-option.php:676
+msgid "Transition Length"
+msgstr ""
+
+#: inc/admin/theme-option.php:693
+msgid "Featured Post/Page Slider Options"
+msgstr ""
+
+#: inc/admin/theme-option.php:698
+msgid "Exclude Slider post from Homepage posts?"
+msgstr ""
+
+#: inc/admin/theme-option.php:701
+msgid "Check to exclude"
+msgstr ""
+
+#: inc/admin/theme-option.php:707
+msgid "Featured Slider Post/Page #"
+msgstr ""
+
+#: inc/admin/theme-option.php:710 inc/admin/theme-option.php:711
+msgid "Click Here To Edit"
+msgstr ""
+
+#: inc/admin/theme-option.php:718
+msgid ""
+"<strong>Following are the steps on how to use the featured slider.</"
+"strong><br />* Create Post, Add featured image to the Post.<br />* Add all "
+"the Post ID that you want to use in the featured slider. <br /> &nbsp;(You "
+"can now see the Posts' respective ID in the All Posts' table in last "
+"column.)<br />* Featured Slider will show featured images, Title and excerpt "
+"of the respected added post's IDs."
+msgstr ""
+
+#: inc/admin/theme-option.php:721
+msgid ""
+"<strong>Note:</strong> You can now add Pages ID too. (You can now see the "
+"Pages' respective ID in the All Pages' table in last column.) ."
+msgstr ""
+
+#: inc/admin/theme-option.php:737
+msgid "Contact Info Bar"
+msgstr ""
+
+#: inc/admin/theme-option.php:743
+msgid "Disable Top Info Bar"
+msgstr ""
+
+#: inc/admin/theme-option.php:751
+msgid "Disable Bottom Info Bar"
+msgstr ""
+
+#: inc/admin/theme-option.php:759
+msgid "Phone Number"
+msgstr ""
+
+#: inc/admin/theme-option.php:762
+msgid "Enter your Phone number only"
+msgstr ""
+
+#: inc/admin/theme-option.php:766
+msgid "Email ID Only"
+msgstr ""
+
+#: inc/admin/theme-option.php:769
+msgid "Enter your Email ID"
+msgstr ""
+
+#: inc/admin/theme-option.php:773
+msgid "Location Only"
+msgstr ""
+
+#: inc/admin/theme-option.php:776
+msgid "Enter your Address"
+msgstr ""
+
+#: inc/admin/theme-option.php:790 inc/structure/header-extensions.php:278
+msgid "Facebook"
+msgstr ""
+
+#: inc/admin/theme-option.php:791 inc/structure/header-extensions.php:279
+msgid "Twitter"
+msgstr ""
+
+#: inc/admin/theme-option.php:792 inc/structure/header-extensions.php:280
+msgid "Google Plus"
+msgstr ""
+
+#: inc/admin/theme-option.php:793 inc/structure/header-extensions.php:281
+msgid "Pinterest"
+msgstr ""
+
+#: inc/admin/theme-option.php:794 inc/structure/header-extensions.php:282
+msgid "Youtube"
+msgstr ""
+
+#: inc/admin/theme-option.php:795 inc/structure/header-extensions.php:283
+msgid "Vimeo"
+msgstr ""
+
+#: inc/admin/theme-option.php:796 inc/structure/header-extensions.php:284
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/admin/theme-option.php:797 inc/structure/header-extensions.php:285
+msgid "Flickr"
+msgstr ""
+
+#: inc/admin/theme-option.php:798 inc/structure/header-extensions.php:286
+msgid "Tumblr"
+msgstr ""
+
+#: inc/admin/theme-option.php:799 inc/structure/header-extensions.php:287
+msgid "RSS"
+msgstr ""
+
+#: inc/admin/theme-option.php:815
+msgid "Social Links"
+msgstr ""
+
+#: inc/functions/functions.php:317
+msgid "on"
+msgstr ""
+
+#: inc/shortcodes/interface-shortcodes.php:52
+msgid "WordPress"
+msgstr ""
+
+#: inc/structure/content-extensions.php:151
+#: inc/structure/content-extensions.php:304
+#: inc/structure/content-extensions.php:468
+#: inc/structure/content-extensions.php:582
+#: inc/structure/content-extensions.php:707
+msgid "No Comments"
+msgstr ""
+
+#: inc/structure/content-extensions.php:151
+#: inc/structure/content-extensions.php:304
+#: inc/structure/content-extensions.php:468
+#: inc/structure/content-extensions.php:582
+#: inc/structure/content-extensions.php:707
+msgid "1 Comment"
+msgstr ""
+
+#: inc/structure/content-extensions.php:151
+#: inc/structure/content-extensions.php:304
+#: inc/structure/content-extensions.php:468
+#: inc/structure/content-extensions.php:582
+#: inc/structure/content-extensions.php:707
+msgid "% Comments"
+msgstr ""
+
+#: inc/structure/content-extensions.php:151
+#: inc/structure/content-extensions.php:304
+#: inc/structure/content-extensions.php:468
+#: inc/structure/content-extensions.php:582
+#: inc/structure/content-extensions.php:707
+msgid "Comments Off"
+msgstr ""
+
+#: inc/structure/content-extensions.php:163
+#: inc/structure/content-extensions.php:327
+#: inc/structure/content-extensions.php:480
+#: inc/structure/content-extensions.php:607
+#: inc/structure/content-extensions.php:731
+#: inc/structure/footer-extensions.php:89
+msgid " "
+msgstr ""
+
+#: inc/structure/content-extensions.php:170
+#: inc/structure/content-extensions.php:487
+#: inc/structure/content-extensions.php:613
+#: inc/structure/content-extensions.php:718
+#: inc/widgets/interface_widgets.php:289
+msgid "Read more"
+msgstr ""
+
+#: inc/structure/content-extensions.php:185
+#: inc/structure/content-extensions.php:248
+#: inc/structure/content-extensions.php:349
+#: inc/structure/content-extensions.php:396
+#: inc/structure/content-extensions.php:520
+#: inc/structure/content-extensions.php:644
+#: inc/structure/content-extensions.php:765
+#: inc/structure/content-extensions.php:974
+msgid "No Posts Found."
+msgstr ""
+
+#: inc/structure/content-extensions.php:216
+#: inc/structure/content-extensions.php:315
+#: inc/structure/content-extensions.php:721
+#: inc/structure/content-extensions.php:948
+msgid "Pages:"
+msgstr ""
+
+#: inc/structure/content-extensions.php:507
+#: inc/structure/content-extensions.php:631
+#: inc/structure/content-extensions.php:752
+#: inc/structure/content-extensions.php:794
+msgid "&laquo; Previous"
+msgstr ""
+
+#: inc/structure/content-extensions.php:510
+#: inc/structure/content-extensions.php:634
+#: inc/structure/content-extensions.php:755
+#: inc/structure/content-extensions.php:797
+msgid "Next &raquo;"
+msgstr ""
+
+#: inc/structure/content-extensions.php:818
+msgid "&larr; Previous"
+msgstr ""
+
+#: inc/structure/content-extensions.php:821
+msgid "Next &rarr;"
+msgstr ""
+
+#: inc/structure/content-extensions.php:830
+msgid "&larr;"
+msgstr ""
+
+#: inc/structure/content-extensions.php:833
+msgid "&rarr;"
+msgstr ""
+
+#: inc/structure/content-extensions.php:873
+msgid "Pingback:"
+msgstr ""
+
+#: inc/structure/content-extensions.php:875
+msgid "(Edit)"
+msgstr ""
+
+#: inc/structure/content-extensions.php:891
+msgid "Post author"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: inc/structure/content-extensions.php:897
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/structure/content-extensions.php:905
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/structure/content-extensions.php:910
+msgid "Edit"
+msgstr ""
+
+#: inc/structure/content-extensions.php:915
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: inc/structure/content-extensions.php:1002
+msgid "Error 404-Page NOT Found"
+msgstr ""
+
+#: inc/structure/content-extensions.php:1007
+msgid "It seems we can't find what you're looking for."
+msgstr ""
+
+#: inc/structure/content-extensions.php:1010
+msgid "This might be because:"
+msgstr ""
+
+#: inc/structure/content-extensions.php:1013
+msgid ""
+"You have typed the web address incorrectly, or the page you were looking for "
+"may have been moved, updated or deleted."
+msgstr ""
+
+#: inc/structure/content-extensions.php:1016
+msgid "Please try the following instead:"
+msgstr ""
+
+#: inc/structure/content-extensions.php:1019
+msgid ""
+"Check for a mis-typed URL error, then press the refresh button on your "
+"browser."
+msgstr ""
+
+#: inc/structure/footer-extensions.php:68
+msgid "Copyright &copy;"
+msgstr ""
+
+#: inc/structure/footer-extensions.php:68
+msgid "Theme by:"
+msgstr ""
+
+#: inc/structure/footer-extensions.php:68
+msgid "Powered by:"
+msgstr ""
+
+#: inc/structure/header-extensions.php:86
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/structure/header-extensions.php:309
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: inc/structure/header-extensions.php:573
+msgid "Page NOT Found"
+msgstr ""
+
+#: inc/structure/header-extensions.php:576
+msgid "Search Results"
+msgstr ""
+
+#: inc/structure/searchform-extensions.php:22
+#: inc/structure/searchform-extensions.php:24
+msgid "Search"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:22
+msgid "Shows widgets at Left side."
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:33
+msgid "Shows widgets at Right side."
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:42
+msgid "Business Page Section"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:44
+msgid ""
+"Shows widgets on Business Page Template. Suitable widget: Theme Horse: "
+"Featured Recent Work, Theme Horse: Testimonial, Theme Horse: Services, Theme "
+"Horse: PromoBox"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:54
+msgid "Business Page Our Clients Section"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:56
+msgid ""
+"Shows widgets on Business Page Template at bottom of the page. Suitable "
+"widget: Theme Horse: Featured Image"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:66
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:68
+msgid "Shows widgets on Contact Page Template."
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:80
+msgid "Footer - Column1"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:82
+msgid "Shows widgets at footer Column 1."
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:91
+msgid "Footer - Column2"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:93
+msgid "Shows widgets at footer Column 2."
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:102
+msgid "Footer - Column3"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:104
+msgid "Shows widgets at footer Column 3."
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:132
+msgid "Displays Custom Tag Cloud"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:134
+msgid "Theme Horse: Custom Tag Cloud"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:187 inc/widgets/interface_widgets.php:409
+#: inc/widgets/interface_widgets.php:624
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:202
+msgid "Display Services( Business Layout )"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:204
+msgid "Theme Horse: Services"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:221 inc/widgets/interface_widgets.php:432
+msgid "Page"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:311
+msgid "Display PromoBox( Business Layout )"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:313
+msgid "Theme Horse: PromoBox"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:350
+msgid "Primary Promotional:"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:354
+msgid "Secondary Promotional"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:358 inc/widgets/interface_widgets.php:417
+msgid "Redirect Text:"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:364 inc/widgets/interface_widgets.php:423
+msgid "Redirect Url:"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:381
+msgid ""
+"Use this widget to show recent work, portfolio or any pages as your wish "
+"( Business Layout )"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:383
+msgid "Theme Horse: Featured Recent Work"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:413
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:530
+msgid "Display Testimonial( Business Layout )recommendation size (168 * 168)"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:532
+msgid "Theme Horse: Testimonial"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:631
+msgid "Upload Image 1"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:633
+msgid "Testimonial Description 1"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:637
+msgid "Name 1:"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:643
+msgid "Designation 1:"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:649
+msgid "Comapany Name 1:"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:655
+msgid "Company Link 1:"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:662
+msgid "Upload Image 2"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:664
+msgid "Testimonial Description 2"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:668
+msgid "Name 2:"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:674
+msgid "Designation 2:"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:680
+msgid "Comapany Name 2:"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:686
+msgid "Company Link 2:"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:698
+msgid "Use to show your clients logos or any thing."
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:715
+msgid ""
+"Note: Recommended size for the image is 400px (width) and 150px (height). If "
+"you want more image adding fields then first enter the number and click on "
+"Save, this will allow you more image adding fields"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:719
+msgid "Image Title:"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:725
+msgid "Number of Images:"
+msgstr ""
+
+#: inc/widgets/interface_widgets.php:739
+msgid "Redirect Link:"
+msgstr ""

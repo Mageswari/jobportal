@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bwg\n"
+"POT-Creation-Date: 2014-06-23 10:56+0400\n"
+"PO-Revision-Date: 2014-06-23 10:58+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\photo-gallery\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/photo-gallery.php:2821
+msgid "field is required."
+msgstr "فیلد الزامی است."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/photo-gallery.php:2822
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1116
+msgid "This is not a valid email address."
+msgstr "این یک آدرس ایمیل معتبر نیست. "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/photo-gallery.php:2823
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:726
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:715
+msgid "There are no images matching your search."
+msgstr "تصویر مطابق با جستجو شما وجود دارد."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:478
+msgid " item(s)"
+msgstr "آیتم استفاده کنید"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:483
+msgid "First"
+msgstr "نخست"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:484
+msgid "Previous"
+msgstr "قبلی"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:485
+msgid "Next"
+msgstr "بعد"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:486
+msgid "Last"
+msgstr "تاریخ و زمان آخرین"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:512
+msgid "Go to the first page"
+msgstr "برو به صفحه اول"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:513
+msgid "Go to the previous page"
+msgstr "برو به صفحه قبلی"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:515
+msgid "of"
+msgstr "از"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:519
+msgid "Go to the next page"
+msgstr "برو به صفحه بعد"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:520
+msgid "Go to the last page"
+msgstr "برو به صفحه آخر"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:604
+msgid "Reset"
+msgstr "تنظیم مجدد"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:607
+msgid "Search"
+msgstr "جستجو"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:132
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:82
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:32
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:68
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:42
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:101
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:127
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails_masonry.php:77
+msgid "There is no theme selected or the theme was deleted."
+msgstr "هیچ موضوع انتخاب شده وجود دارد و یا موضوع حذف شد"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:137
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:157
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:89
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:109
+msgid "There is no album selected or the album was deleted."
+msgstr "هیچ آلبوم انتخاب شده وجود دارد و یا این آلبوم حذف شد"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:146
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:98
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:79
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:79
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:163
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:144
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails_masonry.php:88
+msgid "There are no images in this gallery."
+msgstr "تصویر در این گالری وجود دارد"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:619
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:599
+msgid "Back"
+msgstr "برگشت"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:630
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:610
+msgid "Album is empty."
+msgstr "آلبوم خالی است"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:731
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:720
+msgid "Gallery is empty."
+msgstr "گالری خالی است"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:690
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:798
+msgid "More"
+msgstr "بیشتر"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:793
+msgid "Hide"
+msgstr "مخفی شود"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:73
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:73
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:158
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:138
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails_masonry.php:82
+msgid "There is no gallery selected or the gallery was deleted."
+msgstr "هیچ گالری انتخاب شده وجود دارد و یا از گالری حذف شده است"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:493
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:831
+msgid "Show comments"
+msgstr "نمایش نظرات"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:499
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:500
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:839
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:840
+msgid "Share on Facebook"
+msgstr "در فیس بوک به اشتراک بگذارید"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:506
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:507
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:846
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:847
+msgid "Share on Twitter"
+msgstr "در توییتر به اشتراک بگذارید"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:513
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:514
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:853
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:854
+msgid "Share on Google+"
+msgstr "در + Google به اشتراک بگذارید"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:520
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:521
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:860
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:861
+msgid "Share on Pinterest"
+msgstr "اشتراک در Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:527
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:528
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:867
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:868
+msgid "Share on Tumblr"
+msgstr "به اشتراک گذاشتن در وبلاگ Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:809
+msgid "The image has been deleted."
+msgstr "تصویر حذف شده است"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:819
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2489
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1556
+msgid "Play"
+msgstr "بازی"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:823
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2325
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2422
+msgid "Maximize"
+msgstr "به حداکثر رساندن"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:827
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2424
+msgid "Fullscreen"
+msgstr "تمام صفحه"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:829
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2165
+msgid "Show info"
+msgstr "نمایش اطلاعات"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:833
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2176
+msgid "Show rating"
+msgstr "نمایش امتیاز"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:875
+msgid "Open image in original size."
+msgstr "باز کردن تصویر در اندازه اصلی"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:882
+msgid "Download original image"
+msgstr "دانلود تصویر اصلی"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:975
+msgid "Hits: "
+msgstr "بازدید:"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:986
+msgid "Rated."
+msgstr "دارای رتبه."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:990
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1003
+msgid "Not rated yet."
+msgstr "هنوز رتبه بندی نشده"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:992
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1025
+msgid "Votes: "
+msgstr "امتیاز: "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1023
+msgid "Cancel your rating."
+msgstr "لغو امتیاز خود را"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1025
+msgid "You have already rated."
+msgstr "شما در حال حاضر به امتیاز"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1109
+msgid "Error. Incorrect Verification Code."
+msgstr "خطا. کد امنیتی اشتباه است. "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1124
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2012
+msgid "Hide Comments"
+msgstr "مخفی کردن نظرات"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1128
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1156
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1163
+msgid "Name"
+msgstr "نام و نام خانوادگی"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1134
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1156
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1163
+msgid "Email"
+msgstr "پست الکترونیک "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1141
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1156
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1163
+msgid "Comment"
+msgstr "نظر"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1146
+msgid "Verification Code"
+msgstr "کد امنیتی"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1169
+msgid "Submit"
+msgstr "ثبت کردن"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1170
+msgid "Your comment is awaiting moderation"
+msgstr "نظر شما در انتظار تایید"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1199
+msgid "Delete Comment"
+msgstr "حذف نظر"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1969
+msgid "Show Comments"
+msgstr "نمایش نظرات"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2161
+msgid "Hide info"
+msgstr "مخفی کردن اطلاعات"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2172
+msgid "Hide rating"
+msgstr "مخفی کردن امتیاز"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2360
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2554
+msgid "Restore"
+msgstr "بازگرداندن"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2470
+msgid "Exit Fullscreen"
+msgstr "خروج از تمام صفحه"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2483
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2498
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1547
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1565
+msgid "Pause"
+msgstr "مکث"

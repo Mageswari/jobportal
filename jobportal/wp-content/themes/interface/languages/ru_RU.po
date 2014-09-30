@@ -1,0 +1,1021 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Interface\n"
+"POT-Creation-Date: 2014-04-28 14:09+0545\n"
+"PO-Revision-Date: 2014-06-17 15:29+0600\n"
+"Last-Translator: kirill belotserkovskiy <k.belotserkovskiy@gmail.com>\n"
+"Language-Team: Themehorse <support@themehorse.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;_x;_n;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:30
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%2$s&rdquo;"
+
+#: comments.php:33
+#, php-format
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr "%1$s комментариве к &ldquo;%2$s&rdquo;"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии "
+
+#: comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr "Свежие комментарии &rarr;"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: functions.php:132
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: inc/admin/interface-metaboxes.php:19
+msgid ""
+"Select layout for this specific Page only ( Note: This setting only reflects "
+"if page Template is set as Default Template and Blog Type Templates.)"
+msgstr ""
+"Выберите разметку для страницы (Обратите внимание: эта настройка будет "
+"работать только в том случае, если используется шаблон по умолчанию или "
+"шаблон блога)"
+
+#: inc/admin/interface-metaboxes.php:25
+msgid "Select layout for this specific Post only"
+msgstr "Выберите разметку для этой записи"
+
+#: inc/admin/interface-metaboxes.php:38
+msgid "Default Layout Set in"
+msgstr "Разметка по умолчанию"
+
+#: inc/admin/interface-metaboxes.php:38
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: inc/admin/interface-metaboxes.php:44
+msgid "No sidebar"
+msgstr "Без боковых колонок"
+
+#: inc/admin/interface-metaboxes.php:50
+msgid "No sidebar, Full Width"
+msgstr "Без боковых колонок, широкий"
+
+#: inc/admin/interface-metaboxes.php:57
+msgid "Left sidebar"
+msgstr "Боковая колонка слева"
+
+#: inc/admin/interface-metaboxes.php:63
+msgid "Right sidebar"
+msgstr "Боковая колонка справа"
+
+#: inc/admin/theme-option.php:100 inc/admin/theme-option.php:101
+msgid "Theme Options"
+msgstr "Параметры темы"
+
+#: inc/admin/theme-option.php:135
+msgid "Theme Options by"
+msgstr "Параметры темы от"
+
+#: inc/admin/theme-option.php:138
+msgid "http://themehorse.com/"
+msgstr "http://themehorse.com/"
+
+#: inc/admin/theme-option.php:138 inc/shortcodes/interface-shortcodes.php:61
+msgid "Theme Horse"
+msgstr "Theme Horse"
+
+#: inc/admin/theme-option.php:140
+msgid "Confused about something? See"
+msgstr "Что-то непонятно? Смотрите"
+
+#: inc/admin/theme-option.php:141
+msgid "Interface Theme Instructions"
+msgstr "Инструкции к теме Interface"
+
+#: inc/admin/theme-option.php:142
+msgid "Theme Instructions"
+msgstr "Инструкции"
+
+#: inc/admin/theme-option.php:143 inc/admin/theme-option.php:144
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: inc/admin/theme-option.php:145
+msgid "Interface Demo"
+msgstr "Демо"
+
+#: inc/admin/theme-option.php:146
+msgid "View Demo"
+msgstr "Демо"
+
+#: inc/admin/theme-option.php:153
+msgid "Hey! buy us a beer and we shall come with new features and update."
+msgstr ""
+"Давайте сделаем так: вы купите нам пива, а мы добавим в тему новые плюшки."
+
+#: inc/admin/theme-option.php:155 inc/admin/theme-option.php:156
+msgid "Donate"
+msgstr "Сделать пожертвование"
+
+#: inc/admin/theme-option.php:157
+msgid "Review Interface"
+msgstr "Поставить оценку на Wordpress.org"
+
+#: inc/admin/theme-option.php:158
+msgid "Rate Interface"
+msgstr "Оценить тему"
+
+#: inc/admin/theme-option.php:178
+msgid "Settings saved."
+msgstr "Настройки сохранены"
+
+#: inc/admin/theme-option.php:185
+msgid "Layout Options"
+msgstr "Параметры разметки"
+
+#: inc/admin/theme-option.php:188
+msgid "Design Options"
+msgstr "Параметры отображения"
+
+#: inc/admin/theme-option.php:191
+msgid "Advance Options"
+msgstr "Специальные параметры"
+
+#: inc/admin/theme-option.php:194
+msgid "Featured Post/Page Slider"
+msgstr "Слайдер избранного"
+
+#: inc/admin/theme-option.php:197
+msgid "Contact / Social Links"
+msgstr "Контакты"
+
+#: inc/admin/theme-option.php:205 inc/admin/theme-option.php:212
+msgid "Site Layout"
+msgstr "Разметка сайта"
+
+#: inc/admin/theme-option.php:215
+msgid "This change is reflected in whole website"
+msgstr "Это изменение затронет весь сайт"
+
+#: inc/admin/theme-option.php:220
+msgid "Narrow Layout"
+msgstr "Узкий шаблон"
+
+#: inc/admin/theme-option.php:224
+msgid "Wide Layout"
+msgstr "Широкий шаблон"
+
+#: inc/admin/theme-option.php:230 inc/admin/theme-option.php:276
+#: inc/admin/theme-option.php:305 inc/admin/theme-option.php:363
+#: inc/admin/theme-option.php:401 inc/admin/theme-option.php:439
+#: inc/admin/theme-option.php:494 inc/admin/theme-option.php:557
+#: inc/admin/theme-option.php:599 inc/admin/theme-option.php:684
+#: inc/admin/theme-option.php:724 inc/admin/theme-option.php:780
+#: inc/admin/theme-option.php:835
+msgid "Save All Changes"
+msgstr "Сохранить"
+
+#: inc/admin/theme-option.php:238
+msgid "Content Layout"
+msgstr "Шаблон содержимого"
+
+#: inc/admin/theme-option.php:245
+msgid "Layouts"
+msgstr "Шаблоны"
+
+#: inc/admin/theme-option.php:249
+msgid "No Sidebar"
+msgstr "Без боковых колонок"
+
+#: inc/admin/theme-option.php:253
+msgid "No Sidebar, Full Width"
+msgstr "Без боковых колонок, широкий"
+
+#: inc/admin/theme-option.php:257 inc/widgets/interface_widgets.php:20
+msgid "Left Sidebar"
+msgstr "Боковая колонка слева"
+
+#: inc/admin/theme-option.php:261 inc/widgets/interface_widgets.php:31
+msgid "Right Sidebar"
+msgstr "Боковая колонка справа"
+
+#: inc/admin/theme-option.php:267
+msgid "Reset Layout"
+msgstr "Сбросить настройки"
+
+#: inc/admin/theme-option.php:271
+msgid "Check to reset"
+msgstr "Сбросить"
+
+#: inc/admin/theme-option.php:284 inc/admin/theme-option.php:291
+msgid "Responsive Layout"
+msgstr "Адапивность"
+
+#: inc/admin/theme-option.php:295
+msgid ""
+"ON <span class=\"description\">(Responsive view will be displayed in small "
+"devices )</span>"
+msgstr ""
+"Включена <span class=\"description\">(Сайт будет менять внешний вид на "
+"маленьких экранах)</span>"
+
+#: inc/admin/theme-option.php:299
+msgid ""
+"OFF   <span class=\"description\">(Full site will display as desktop view)</"
+"span>"
+msgstr ""
+"Выключена <span class=\"description\">(Сайт будет выглядеть одинаково на "
+"всех экранах)</span>"
+
+#: inc/admin/theme-option.php:316
+msgid "Custom Header"
+msgstr "Пользовательский заголовок"
+
+#: inc/admin/theme-option.php:323 inc/admin/theme-option.php:331
+msgid "Header Logo"
+msgstr "Логотип в заголовке"
+
+#: inc/admin/theme-option.php:326
+msgid "Change Header Logo"
+msgstr "Поменять логотип"
+
+#: inc/admin/theme-option.php:329 inc/admin/theme-option.php:393
+#: inc/admin/theme-option.php:431
+msgid "Preview"
+msgstr "Демонстрация"
+
+#: inc/admin/theme-option.php:336
+msgid "Show"
+msgstr "Показать"
+
+#: inc/admin/theme-option.php:340
+msgid "Header Logo Only"
+msgstr "В заголовке только логотип"
+
+#: inc/admin/theme-option.php:343
+msgid "Header Text Only"
+msgstr "В заголовке только текст"
+
+#: inc/admin/theme-option.php:346
+msgid "Disable"
+msgstr "Не использовать"
+
+#: inc/admin/theme-option.php:350
+msgid "Need to replace Header Image?"
+msgstr "Хотите поменять изображение в заголовке?"
+
+#: inc/admin/theme-option.php:352 inc/admin/theme-option.php:456
+#, php-format
+msgid "<a class=\"button\" href=\"%s\">Click here</a>"
+msgstr "<a class=\"button\" href=\"%s\">Жмите сюда</a>"
+
+#: inc/admin/theme-option.php:355
+msgid "Hide Searchform from Header"
+msgstr "Скрыть форму поиска из заголовка"
+
+#: inc/admin/theme-option.php:358
+msgid "Check to hide"
+msgstr "Скрыть"
+
+#: inc/admin/theme-option.php:372
+msgid "Fav Icon Options"
+msgstr "Параметры фавикона"
+
+#: inc/admin/theme-option.php:379
+msgid "Disable Favicon"
+msgstr "Не использовать фавикон"
+
+#: inc/admin/theme-option.php:383 inc/admin/theme-option.php:421
+#: inc/admin/theme-option.php:519 inc/admin/theme-option.php:621
+#: inc/admin/theme-option.php:747 inc/admin/theme-option.php:755
+msgid "Check to disable"
+msgstr "Не использовать"
+
+#: inc/admin/theme-option.php:387
+msgid "Fav Icon URL"
+msgstr "URL фавикона"
+
+#: inc/admin/theme-option.php:390
+msgid "Change Fav Icon"
+msgstr "Изменить фавикон"
+
+#: inc/admin/theme-option.php:395
+msgid "favicon"
+msgstr "фавикон"
+
+#: inc/admin/theme-option.php:410
+msgid "Web Clip Icon Options"
+msgstr "Параметры Web Clip icon"
+
+#: inc/admin/theme-option.php:417
+msgid "Disable Web Clip Icon"
+msgstr "Не использовать Web Clip Icon"
+
+#: inc/admin/theme-option.php:425
+msgid "Web Clip Icon URL"
+msgstr "Web Clip Icon URL"
+
+#: inc/admin/theme-option.php:428
+msgid "Change Web Clip Icon"
+msgstr " Изменить Web Clip Icon"
+
+#: inc/admin/theme-option.php:433
+msgid "webpage icon"
+msgstr "иконка страницы"
+
+#: inc/admin/theme-option.php:448
+msgid "Custom Background"
+msgstr "Пользовательский фон"
+
+#: inc/admin/theme-option.php:454
+msgid "Need to replace default background?"
+msgstr "Хотите поменять фон?"
+
+#: inc/admin/theme-option.php:458
+msgid ""
+"Note: The custom background change will be reflected in the background if "
+"the site layout is set to be narrow layout instead of the wide layout."
+msgstr ""
+"Обратите внимание: фон будет видно только в том случае, если в качестве "
+"шаблона выбран «узкий шаблон»."
+
+#: inc/admin/theme-option.php:470
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: inc/admin/theme-option.php:477
+msgid "Enter your custom CSS styles."
+msgstr "Введите ваш CSS-код сюда"
+
+#: inc/admin/theme-option.php:480
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr "Этот код перепишет тот, что содержится в style.css"
+
+#: inc/admin/theme-option.php:486
+msgid "CSS Tutorial from W3Schools."
+msgstr "Уроки по CSS от W3Schools"
+
+#: inc/admin/theme-option.php:487
+msgid "http://www.w3schools.com/css/default.asp"
+msgstr "http://www.w3schools.com/css/default.asp"
+
+#: inc/admin/theme-option.php:487
+msgid "CSS Tutorial"
+msgstr "Уроки CSS "
+
+#: inc/admin/theme-option.php:488
+msgid "Click Here to Read"
+msgstr "Читать"
+
+#: inc/admin/theme-option.php:507
+msgid "Home Slogan Options"
+msgstr "Параметры слогана на главной"
+
+#: inc/admin/theme-option.php:514
+msgid "Disable Slogan Part"
+msgstr "Не использовать слоган"
+
+#: inc/admin/theme-option.php:523
+msgid "Slogan Position"
+msgstr "Положение слогана"
+
+#: inc/admin/theme-option.php:527
+msgid "Above Slider"
+msgstr "Над слайдером"
+
+#: inc/admin/theme-option.php:531
+msgid "Below Slider"
+msgstr "Под слайдером"
+
+#: inc/admin/theme-option.php:536
+msgid "Home Page Primary Slogan"
+msgstr "Главный слоган"
+
+#: inc/admin/theme-option.php:539 inc/admin/theme-option.php:549
+msgid "The appropriate length of the slogan is around 10 words."
+msgstr "Не больше 10 слов"
+
+#: inc/admin/theme-option.php:546
+msgid "Home Page Secondary Slogan"
+msgstr "Дополнительный слоган"
+
+#: inc/admin/theme-option.php:565
+msgid "Homepage Blog Category Setting"
+msgstr "Настройки блога"
+
+#: inc/admin/theme-option.php:572
+msgid "Front page posts categories:"
+msgstr "Отображаемые разделы:"
+
+#: inc/admin/theme-option.php:575
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page."
+msgstr "Только записи из отмеченных разделов будут отображаться в блоге"
+
+#: inc/admin/theme-option.php:580
+msgid "--Disabled--"
+msgstr "--Запрещено--"
+
+#: inc/admin/theme-option.php:593
+msgid "You may select multiple categories by holding down the CTRL key."
+msgstr "Вы можете выбрать несколько разделов, кликая по ним с зажатым CTRL"
+
+#: inc/admin/theme-option.php:613
+msgid "Slider Options"
+msgstr "Параметры слайдера"
+
+#: inc/admin/theme-option.php:618
+msgid "Disable Slider"
+msgstr "Не использовать слайдер"
+
+#: inc/admin/theme-option.php:625
+msgid "Slider Content"
+msgstr "Содержимое слайдера"
+
+#: inc/admin/theme-option.php:629
+msgid ""
+"ON <span class=\"description\">(Slider Content will be displayed)</span>"
+msgstr "Включен <span class=\"description\">(Слайдер будет работать)</span>"
+
+#: inc/admin/theme-option.php:633
+msgid ""
+"OFF   <span class=\"description\">(Slider Content will not be displayed)</"
+"span>"
+msgstr ""
+"Выключен <span class=\"description\">(Слайдер не будет работать)</span>"
+
+#: inc/admin/theme-option.php:637
+msgid "Number of Slides"
+msgstr "Количество слайдов"
+
+#: inc/admin/theme-option.php:642
+msgid "Transition Effect:"
+msgstr "Эффект перехода:"
+
+#: inc/admin/theme-option.php:662 inc/admin/theme-option.php:825
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: inc/admin/theme-option.php:669
+msgid "Transition Delay"
+msgstr "Задержка перехода"
+
+#: inc/admin/theme-option.php:672 inc/admin/theme-option.php:679
+msgid "second(s)"
+msgstr "секунд"
+
+#: inc/admin/theme-option.php:676
+msgid "Transition Length"
+msgstr "Скорость перехода"
+
+#: inc/admin/theme-option.php:693
+msgid "Featured Post/Page Slider Options"
+msgstr "Записи и страницы в слайдере"
+
+#: inc/admin/theme-option.php:698
+msgid "Exclude Slider post from Homepage posts?"
+msgstr "Не показывать слайдер в записях?"
+
+#: inc/admin/theme-option.php:701
+msgid "Check to exclude"
+msgstr "Не показывать"
+
+#: inc/admin/theme-option.php:707
+msgid "Featured Slider Post/Page #"
+msgstr "ID записи или страницы"
+
+#: inc/admin/theme-option.php:710 inc/admin/theme-option.php:711
+msgid "Click Here To Edit"
+msgstr "Редактировать"
+
+#: inc/admin/theme-option.php:718
+msgid ""
+"<strong>Following are the steps on how to use the featured slider.</"
+"strong><br />* Create Post, Add featured image to the Post.<br />* Add all "
+"the Post ID that you want to use in the featured slider. <br /> &nbsp;(You "
+"can now see the Posts' respective ID in the All Posts' table in last column.)"
+"<br />* Featured Slider will show featured images, Title and excerpt of the "
+"respected added post's IDs."
+msgstr ""
+"<strong>Как пользоваться слайдером:</strong><br />* Создаёте запись или "
+"страницу и задаёте им миниатюру<br />* Указываете ID в параметрах слайдера  "
+"<br />* Теперь слайдер будет показывать заголовок записи, её миниатюру и "
+"цитату <br />Чтобы узнать ID записи перейдите в раздел Записи→Все записи и "
+"наведите курсор на ссылку редактирования. В левом нижнем углу экрана "
+"появится URL, вида yoursite/wp-admin/post.php?post=xxx&action=edit; xxx — ID "
+"записи. Со страницами по аналогии."
+
+#: inc/admin/theme-option.php:721
+msgid ""
+"<strong>Note:</strong> You can now add Pages ID too. (You can now see the "
+"Pages' respective ID in the All Pages' table in last column.) ."
+msgstr "Помните, что страницы тоже можно показывать в слайдере."
+
+#: inc/admin/theme-option.php:737
+msgid "Contact Info Bar"
+msgstr "Контакты"
+
+#: inc/admin/theme-option.php:743
+msgid "Disable Top Info Bar"
+msgstr "Не использовать верхний блок с контактами"
+
+#: inc/admin/theme-option.php:751
+msgid "Disable Bottom Info Bar"
+msgstr "Не использовать нижний блок с контактами"
+
+#: inc/admin/theme-option.php:759
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: inc/admin/theme-option.php:762
+msgid "Enter your Phone number only"
+msgstr "Введите номер телефона"
+
+#: inc/admin/theme-option.php:766
+msgid "Email ID Only"
+msgstr "Электропочта"
+
+#: inc/admin/theme-option.php:769
+msgid "Enter your Email ID"
+msgstr "Введите адрес электронной почты"
+
+#: inc/admin/theme-option.php:773
+msgid "Location Only"
+msgstr "Где вы находитесь"
+
+#: inc/admin/theme-option.php:776
+msgid "Enter your Address"
+msgstr "Адрес"
+
+#: inc/admin/theme-option.php:790 inc/structure/header-extensions.php:278
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/admin/theme-option.php:791 inc/structure/header-extensions.php:279
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/admin/theme-option.php:792 inc/structure/header-extensions.php:280
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/admin/theme-option.php:793 inc/structure/header-extensions.php:281
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/admin/theme-option.php:794 inc/structure/header-extensions.php:282
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/admin/theme-option.php:795 inc/structure/header-extensions.php:283
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/admin/theme-option.php:796 inc/structure/header-extensions.php:284
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/admin/theme-option.php:797 inc/structure/header-extensions.php:285
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/admin/theme-option.php:798 inc/structure/header-extensions.php:286
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/admin/theme-option.php:799 inc/structure/header-extensions.php:287
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/admin/theme-option.php:815
+msgid "Social Links"
+msgstr "Социальные сети"
+
+#: inc/functions/functions.php:317
+msgid "on"
+msgstr "включено"
+
+#: inc/shortcodes/interface-shortcodes.php:52
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/structure/content-extensions.php:151
+#: inc/structure/content-extensions.php:304
+#: inc/structure/content-extensions.php:468
+#: inc/structure/content-extensions.php:582
+#: inc/structure/content-extensions.php:707
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+#: inc/structure/content-extensions.php:151
+#: inc/structure/content-extensions.php:304
+#: inc/structure/content-extensions.php:468
+#: inc/structure/content-extensions.php:582
+#: inc/structure/content-extensions.php:707
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: inc/structure/content-extensions.php:151
+#: inc/structure/content-extensions.php:304
+#: inc/structure/content-extensions.php:468
+#: inc/structure/content-extensions.php:582
+#: inc/structure/content-extensions.php:707
+msgid "% Comments"
+msgstr "% комментариев "
+
+#: inc/structure/content-extensions.php:151
+#: inc/structure/content-extensions.php:304
+#: inc/structure/content-extensions.php:468
+#: inc/structure/content-extensions.php:582
+#: inc/structure/content-extensions.php:707
+msgid "Comments Off"
+msgstr "Комментирование отключено"
+
+#: inc/structure/content-extensions.php:163
+#: inc/structure/content-extensions.php:327
+#: inc/structure/content-extensions.php:480
+#: inc/structure/content-extensions.php:607
+#: inc/structure/content-extensions.php:731
+#: inc/structure/footer-extensions.php:89
+msgid " "
+msgstr " "
+
+#: inc/structure/content-extensions.php:170
+#: inc/structure/content-extensions.php:487
+#: inc/structure/content-extensions.php:613
+#: inc/structure/content-extensions.php:718
+#: inc/widgets/interface_widgets.php:289
+msgid "Read more"
+msgstr "Читать далее"
+
+#: inc/structure/content-extensions.php:185
+#: inc/structure/content-extensions.php:248
+#: inc/structure/content-extensions.php:349
+#: inc/structure/content-extensions.php:396
+#: inc/structure/content-extensions.php:520
+#: inc/structure/content-extensions.php:644
+#: inc/structure/content-extensions.php:765
+#: inc/structure/content-extensions.php:974
+msgid "No Posts Found."
+msgstr "Нет записей"
+
+#: inc/structure/content-extensions.php:216
+#: inc/structure/content-extensions.php:315
+#: inc/structure/content-extensions.php:721
+#: inc/structure/content-extensions.php:948
+msgid "Pages:"
+msgstr "Страницы"
+
+#: inc/structure/content-extensions.php:507
+#: inc/structure/content-extensions.php:631
+#: inc/structure/content-extensions.php:752
+#: inc/structure/content-extensions.php:794
+msgid "&laquo; Previous"
+msgstr "&laquo; Предыдущая "
+
+#: inc/structure/content-extensions.php:510
+#: inc/structure/content-extensions.php:634
+#: inc/structure/content-extensions.php:755
+#: inc/structure/content-extensions.php:797
+msgid "Next &raquo;"
+msgstr "Следующая &raquo;"
+
+#: inc/structure/content-extensions.php:818
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущая "
+
+#: inc/structure/content-extensions.php:821
+msgid "Next &rarr;"
+msgstr "Следующая &rarr;"
+
+#: inc/structure/content-extensions.php:830
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/structure/content-extensions.php:833
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/structure/content-extensions.php:873
+msgid "Pingback:"
+msgstr "Уведомления:"
+
+#: inc/structure/content-extensions.php:875
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: inc/structure/content-extensions.php:891
+msgid "Post author"
+msgstr "Автор записи"
+
+#. translators: 1: date, 2: time
+#: inc/structure/content-extensions.php:897
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/structure/content-extensions.php:905
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий отправлен на модерацию"
+
+#: inc/structure/content-extensions.php:910
+msgid "Edit"
+msgstr "Редактировать"
+
+#: inc/structure/content-extensions.php:915
+msgid "Reply <span>&darr;</span>"
+msgstr "Ответить <span>&darr;</span>"
+
+#: inc/structure/content-extensions.php:1002
+msgid "Error 404-Page NOT Found"
+msgstr "Ошибка 404 — страница не найдена"
+
+#: inc/structure/content-extensions.php:1007
+msgid "It seems we can't find what you're looking for."
+msgstr "Похоже мы не можем найти что вам нужно"
+
+#: inc/structure/content-extensions.php:1010
+msgid "This might be because:"
+msgstr "Так бывает."
+
+#: inc/structure/content-extensions.php:1013
+msgid ""
+"You have typed the web address incorrectly, or the page you were looking for "
+"may have been moved, updated or deleted."
+msgstr ""
+"Может вы неправильно ввели URL, или страница, которую вы ищите была "
+"изменена, перемещена или удалена."
+
+#: inc/structure/content-extensions.php:1016
+msgid "Please try the following instead:"
+msgstr "Не грустите. Попробуйте сделать так:"
+
+#: inc/structure/content-extensions.php:1019
+msgid ""
+"Check for a mis-typed URL error, then press the refresh button on your "
+"browser."
+msgstr "Проверьте правильность URL и обновите страницу."
+
+#: inc/structure/footer-extensions.php:68
+msgid "Copyright &copy;"
+msgstr "Авторские права &copy;"
+
+#: inc/structure/footer-extensions.php:68
+msgid "Theme by:"
+msgstr "Тема от:"
+
+#: inc/structure/footer-extensions.php:68
+msgid "Powered by:"
+msgstr "Работает на:"
+
+#: inc/structure/header-extensions.php:86
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/structure/header-extensions.php:309
+#, php-format
+msgid "%1$s on %2$s"
+msgstr "%1$s на %2$s"
+
+#: inc/structure/header-extensions.php:573
+msgid "Page NOT Found"
+msgstr "Страница не найдена"
+
+#: inc/structure/header-extensions.php:576
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: inc/structure/searchform-extensions.php:22
+#: inc/structure/searchform-extensions.php:24
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/widgets/interface_widgets.php:22
+msgid "Shows widgets at Left side."
+msgstr "Показывать виджеты слева"
+
+#: inc/widgets/interface_widgets.php:33
+msgid "Shows widgets at Right side."
+msgstr "Показывать виджеты справа"
+
+#: inc/widgets/interface_widgets.php:42
+msgid "Business Page Section"
+msgstr "Бизнес-страница"
+
+#: inc/widgets/interface_widgets.php:44
+msgid ""
+"Shows widgets on Business Page Template. Suitable widget: Theme Horse: "
+"Featured Recent Work, Theme Horse: Testimonial, Theme Horse: Services, Theme "
+"Horse: PromoBox"
+msgstr ""
+"Показывает виджеты в шаблоне «Бизнес-страница». Доступные виджеты: Последние "
+"работы, Отзывы, Услуги, Промо-материалы"
+
+#: inc/widgets/interface_widgets.php:54
+msgid "Business Page Our Clients Section"
+msgstr "Блок «Наши клиенты» в шаблоне «Бизнес-страница»"
+
+#: inc/widgets/interface_widgets.php:56
+msgid ""
+"Shows widgets on Business Page Template at bottom of the page. Suitable "
+"widget: Theme Horse: Featured Image"
+msgstr ""
+"Показывает виджеты на Бизнес-странице в самом низу. Доступный виджет "
+"— Избранное изображение"
+
+#: inc/widgets/interface_widgets.php:66
+msgid "Contact Page Sidebar"
+msgstr "Боковая колонка на странице с контактами"
+
+#: inc/widgets/interface_widgets.php:68
+msgid "Shows widgets on Contact Page Template."
+msgstr "Показывает виджеты на странице с контактами"
+
+#: inc/widgets/interface_widgets.php:80
+msgid "Footer - Column1"
+msgstr "Подвал — Столбец 1"
+
+#: inc/widgets/interface_widgets.php:82
+msgid "Shows widgets at footer Column 1."
+msgstr "Показывает виджеты в Столбце 1"
+
+#: inc/widgets/interface_widgets.php:91
+msgid "Footer - Column2"
+msgstr "Подвал — Столбец 2"
+
+#: inc/widgets/interface_widgets.php:93
+msgid "Shows widgets at footer Column 2."
+msgstr "Показывает виджеты в Столбце 2"
+
+#: inc/widgets/interface_widgets.php:102
+msgid "Footer - Column3"
+msgstr "Подвал — Столбец 3"
+
+#: inc/widgets/interface_widgets.php:104
+msgid "Shows widgets at footer Column 3."
+msgstr "Показывает виджеты в Столбце 3"
+
+#: inc/widgets/interface_widgets.php:132
+msgid "Displays Custom Tag Cloud"
+msgstr "Показывает пользовательское облако меток"
+
+#: inc/widgets/interface_widgets.php:134
+msgid "Theme Horse: Custom Tag Cloud"
+msgstr "Theme Horse: Пользовательское облако меток"
+
+#: inc/widgets/interface_widgets.php:187 inc/widgets/interface_widgets.php:409
+#: inc/widgets/interface_widgets.php:624
+msgid "Title:"
+msgstr "Название:"
+
+#: inc/widgets/interface_widgets.php:202
+msgid "Display Services( Business Layout )"
+msgstr "Показывает услуги (Бизнес-страница)"
+
+#: inc/widgets/interface_widgets.php:204
+msgid "Theme Horse: Services"
+msgstr "Theme Horse: Услуги "
+
+#: inc/widgets/interface_widgets.php:221 inc/widgets/interface_widgets.php:432
+msgid "Page"
+msgstr "Страница "
+
+#: inc/widgets/interface_widgets.php:311
+msgid "Display PromoBox( Business Layout )"
+msgstr "Показывает Промо-материалы (Бизнес-страница)"
+
+#: inc/widgets/interface_widgets.php:313
+msgid "Theme Horse: PromoBox"
+msgstr "Theme Horse: Промо-материалы "
+
+#: inc/widgets/interface_widgets.php:350
+msgid "Primary Promotional:"
+msgstr "Основное:"
+
+#: inc/widgets/interface_widgets.php:354
+msgid "Secondary Promotional"
+msgstr "Дополнительное:"
+
+#: inc/widgets/interface_widgets.php:358 inc/widgets/interface_widgets.php:417
+msgid "Redirect Text:"
+msgstr "Текст перенаправления:"
+
+#: inc/widgets/interface_widgets.php:364 inc/widgets/interface_widgets.php:423
+msgid "Redirect Url:"
+msgstr "URL перенаправления:"
+
+#: inc/widgets/interface_widgets.php:381
+msgid ""
+"Use this widget to show recent work, portfolio or any pages as your wish "
+"( Business Layout )"
+msgstr ""
+"Используйте этот виджет чтобы показать последние работы, портфолио или что-"
+"то ещё (Бизнес-страница)"
+
+#: inc/widgets/interface_widgets.php:383
+msgid "Theme Horse: Featured Recent Work"
+msgstr "Theme Horse: Последние работы"
+
+#: inc/widgets/interface_widgets.php:413
+msgid "Description"
+msgstr "Описание"
+
+#: inc/widgets/interface_widgets.php:530
+msgid "Display Testimonial( Business Layout )recommendation size (168 * 168)"
+msgstr "Отображает отзывы (Бизнес-страница). Размер картики 168×168px"
+
+#: inc/widgets/interface_widgets.php:532
+msgid "Theme Horse: Testimonial"
+msgstr "Theme Horse: Отзывы"
+
+#: inc/widgets/interface_widgets.php:631
+msgid "Upload Image 1"
+msgstr "Картинка 1"
+
+#: inc/widgets/interface_widgets.php:633
+msgid "Testimonial Description 1"
+msgstr "Отзыв 1"
+
+#: inc/widgets/interface_widgets.php:637
+msgid "Name 1:"
+msgstr "Имя 1:"
+
+#: inc/widgets/interface_widgets.php:643
+msgid "Designation 1:"
+msgstr "Должность 1:"
+
+#: inc/widgets/interface_widgets.php:649
+msgid "Comapany Name 1:"
+msgstr "Название компании 1:"
+
+#: inc/widgets/interface_widgets.php:655
+msgid "Company Link 1:"
+msgstr "Ссылка на компанию 1:"
+
+#: inc/widgets/interface_widgets.php:662
+msgid "Upload Image 2"
+msgstr "Картинка 2"
+
+#: inc/widgets/interface_widgets.php:664
+msgid "Testimonial Description 2"
+msgstr "Отзыв 2"
+
+#: inc/widgets/interface_widgets.php:668
+msgid "Name 2:"
+msgstr "Имя 2:"
+
+#: inc/widgets/interface_widgets.php:674
+msgid "Designation 2:"
+msgstr "Должность 2:"
+
+#: inc/widgets/interface_widgets.php:680
+msgid "Comapany Name 2:"
+msgstr "Название компании 2:"
+
+#: inc/widgets/interface_widgets.php:686
+msgid "Company Link 2:"
+msgstr "Ссылка на компанию 2:"
+
+#: inc/widgets/interface_widgets.php:698
+msgid "Use to show your clients logos or any thing."
+msgstr "Используйте чтобы показать логотипы клиентов или что-то ещё"
+
+#: inc/widgets/interface_widgets.php:715
+msgid ""
+"Note: Recommended size for the image is 400px (width) and 150px (height). If "
+"you want more image adding fields then first enter the number and click on "
+"Save, this will allow you more image adding fields"
+msgstr ""
+"Размер картинок 400×150px. Если вы хотите добавить больше картинок, то "
+"введите их число и нажмите «Сохранить». Чсло полей увеличится."
+
+#: inc/widgets/interface_widgets.php:719
+msgid "Image Title:"
+msgstr "Название изображения:"
+
+#: inc/widgets/interface_widgets.php:725
+msgid "Number of Images:"
+msgstr "Число изображений:"
+
+#: inc/widgets/interface_widgets.php:739
+msgid "Redirect Link:"
+msgstr "Ссылка с изображения:"

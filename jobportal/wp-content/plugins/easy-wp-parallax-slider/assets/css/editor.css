@@ -1,0 +1,17 @@
+.mce-ico.mce-i-eps_image_icon {
+    background: url("../images/osc-icon-dropdown.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 15px !important;
+    position: relative !important;
+    top: 1px !important;
+    width: 33px !important;
+}
+
+.mce-splitbtn.eps_custom_class {
+    height: 20px !important;
+    line-height: 20px !important;
+}
+
+.mce-splitbtn.eps_custom_class:hover{
+    border: 1px solid #BBBBBB !important;
+    background: linear-gradient(to top, #E5E5E5, #FFFFFF) repeat scroll 0 0 #EEEEEE !important;
+}

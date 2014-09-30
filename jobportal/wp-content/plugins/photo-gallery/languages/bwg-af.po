@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bwg\n"
+"POT-Creation-Date: 2014-06-23 10:36+0400\n"
+"PO-Revision-Date: 2014-06-23 10:38+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress3.5\\wp-content\\plugins"
+"\\photo-gallery\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/photo-gallery.php:2821
+msgid "field is required."
+msgstr "veld is required. "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/photo-gallery.php:2822
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1116
+msgid "This is not a valid email address."
+msgstr "Dit is nie 'n geldige e-posadres."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/photo-gallery.php:2823
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:726
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:715
+msgid "There are no images matching your search."
+msgstr "Daar is geen beelde wat ooreenstem met jou soektog."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:478
+msgid " item(s)"
+msgstr "item(s)"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:483
+msgid "First"
+msgstr "Eerste"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:484
+msgid "Previous"
+msgstr "Vorige"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:485
+msgid "Next"
+msgstr "Volgende"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:486
+msgid "Last"
+msgstr "Duur"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:512
+msgid "Go to the first page"
+msgstr "Gaan na die eerste bladsy"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:513
+msgid "Go to the previous page"
+msgstr "Gaan na die vorige bladsy"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:515
+msgid "of"
+msgstr "van"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:519
+msgid "Go to the next page"
+msgstr "Gaan na die volgende bladsy"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:520
+msgid "Go to the last page"
+msgstr "Gaan na die laaste bladsy"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:604
+msgid "Reset"
+msgstr "Herstel"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:607
+msgid "Search"
+msgstr "Soek"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:132
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:82
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:32
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:68
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:42
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:101
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:127
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails_masonry.php:77
+msgid "There is no theme selected or the theme was deleted."
+msgstr "Daar is geen tema gekies of die tema is verwyder."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:137
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:157
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:89
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:109
+msgid "There is no album selected or the album was deleted."
+msgstr "Daar is geen album gekies of die album is verwyder."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:146
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:98
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:79
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:79
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:163
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:144
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails_masonry.php:88
+msgid "There are no images in this gallery."
+msgstr "Daar is geen foto's in die gallery."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:619
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:599
+msgid "Back"
+msgstr "Terug"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:630
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:610
+msgid "Album is empty."
+msgstr "Album is leeg."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:731
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:720
+msgid "Gallery is empty."
+msgstr "Gallery is leeg."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:690
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:798
+msgid "More"
+msgstr "Meer"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:793
+msgid "Hide"
+msgstr "Verberg"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:73
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:73
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:158
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:138
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails_masonry.php:82
+msgid "There is no gallery selected or the gallery was deleted."
+msgstr "Daar is geen gallery gekies of die gallery is verwyder."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:493
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:831
+msgid "Show comments"
+msgstr "Wys kommentaar"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:499
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:500
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:839
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:840
+msgid "Share on Facebook"
+msgstr "Deel op Facebook"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:506
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:507
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:846
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:847
+msgid "Share on Twitter"
+msgstr "Deel op Twitter"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:513
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:514
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:853
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:854
+msgid "Share on Google+"
+msgstr "Deel op Google+"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:520
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:521
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:860
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:861
+msgid "Share on Pinterest"
+msgstr "Deel op Pinterest"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:527
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:528
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:867
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:868
+msgid "Share on Tumblr"
+msgstr "Deel op Tumblr"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:809
+msgid "The image has been deleted."
+msgstr "Die beeld is verwyder"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:819
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2489
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1556
+msgid "Play"
+msgstr "Speel"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:823
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2325
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2422
+msgid "Maximize"
+msgstr "Maksimeer"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:827
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2424
+msgid "Fullscreen"
+msgstr "Volskerm"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:829
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2165
+msgid "Show info"
+msgstr "Wys info"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:833
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2176
+msgid "Show rating"
+msgstr "Wys gradering"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:875
+msgid "Open image in original size."
+msgstr "Open beeld in die oorspronklike grootte"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:882
+msgid "Download original image"
+msgstr "Aflaai oorspronklike beeld"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:975
+msgid "Hits: "
+msgstr "Hits: "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:986
+msgid "Rated."
+msgstr "Gegradeer."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:990
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1003
+msgid "Not rated yet."
+msgstr "Nog nie gegradeer nie"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:992
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1025
+msgid "Votes: "
+msgstr "stemme"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1023
+msgid "Cancel your rating."
+msgstr "Die styl van jou gradering"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1025
+msgid "You have already rated."
+msgstr "Jy het reeds gegradeer"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1109
+msgid "Error. Incorrect Verification Code."
+msgstr "Fout. Verkeerde Bevestigingskode."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1124
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2012
+msgid "Hide Comments"
+msgstr "Steek kommentaar"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1128
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1156
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1163
+msgid "Name"
+msgstr "Noem"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1134
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1156
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1163
+msgid "Email"
+msgstr "E-pos "
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1141
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1156
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1163
+msgid "Comment"
+msgstr "Kommentaar lewer nie"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1146
+msgid "Verification Code"
+msgstr "Bevestigingskode"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1169
+msgid "Submit"
+msgstr "Stuur"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1170
+msgid "Your comment is awaiting moderation"
+msgstr "Jou opmerking is wag moderering"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1199
+msgid "Delete Comment"
+msgstr "Verwyder Kommentaar"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1969
+msgid "Show Comments"
+msgstr "Wys kommentaar"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2161
+msgid "Hide info"
+msgstr "Steek info"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2172
+msgid "Hide rating"
+msgstr "Steek gradering"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2360
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2554
+msgid "Restore"
+msgstr "Herstel"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2470
+msgid "Exit Fullscreen"
+msgstr "Verlaat Volskerm"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2483
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2498
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1547
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1565
+msgid "Pause"
+msgstr "Breek"
